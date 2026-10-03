@@ -1,6 +1,6 @@
-# Snip & Explain
+# explainSnip
 
-Snip & Explain is a practical browser extension for turning screenshots into explanations. It combines browser-based screen selection, image capture, Google Gemini AI analysis, and a floating conversation panel to deliver an intuitive visual Q&A experience.
+explainSnip is a practical browser extension for turning screenshots into explanations. It combines browser-based screen selection, image capture, Google Gemini AI analysis, and a floating conversation panel to deliver an intuitive visual Q&A experience.
 
 Its core value is speed and simplicity: select a region, ask the AI to explain it, and continue the conversation in context without leaving the page.
 ---
